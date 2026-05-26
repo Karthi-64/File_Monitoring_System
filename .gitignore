@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.guardian_quarantine/
+watched_folder/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
